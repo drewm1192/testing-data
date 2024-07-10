@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "Arizona Cardinals",
         "awayTeam": "New Orleans Saints",
@@ -33,7 +33,7 @@
     },
     {
         "id": 2,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "Baltimore Ravens",
         "awayTeam": "Cleveland Browns",
@@ -65,7 +65,7 @@
     },
     {
         "id": 3,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "Carolina Panthers",
         "awayTeam": "Tampa Bay Buccaneers",
@@ -97,7 +97,7 @@
     },
     {
         "id": 4,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "Cincinnati Bengals",
         "awayTeam": "Atlanta Falcons",
@@ -129,7 +129,7 @@
     },
     {
         "id": 5,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "Dallas Cowboys",
         "awayTeam": "Detroit Lions",
@@ -161,7 +161,7 @@
     },
     {
         "id": 6,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "Denver Broncos",
         "awayTeam": "New York Jets",
@@ -193,7 +193,7 @@
     },
     {
         "id": 7,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "Jacksonville Jaguars",
         "awayTeam": "New York Giants",
@@ -225,7 +225,7 @@
     },
     {
         "id": 8,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "Los Angeles Chargers",
         "awayTeam": "Seattle Seahawks",
@@ -257,7 +257,7 @@
     },
     {
         "id": 9,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "Las Vegas Raiders",
         "awayTeam": "Houston Texans",
@@ -289,7 +289,7 @@
     },
     {
         "id": 10,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "Miami Dolphins",
         "awayTeam": "Pittsburgh Steelers",
@@ -321,7 +321,7 @@
     },
     {
         "id": 11,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "New England Patriots",
         "awayTeam": "Chicago Bears",
@@ -353,7 +353,7 @@
     },
     {
         "id": 12,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "San Francisco 49ers",
         "awayTeam": "Kansas City Chiefs",
@@ -385,7 +385,7 @@
     },
     {
         "id": 13,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "Tennessee Titans",
         "awayTeam": "Indianapolis Colts",
@@ -417,7 +417,7 @@
     },
     {
         "id": 14,
-        "week": 1,
+        "week": 7,
         "year": 2024,
         "homeTeam": "Washington Commanders",
         "awayTeam": "Green Bay Packers",
