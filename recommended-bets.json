@@ -28,7 +28,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 100,
-        "overUnderBetAmt": 0
+        "overUnderBetAmt": 0,
+        "date": "2022-10-20T00:15:00Z"
     },
     {
         "id": 2,
@@ -59,7 +60,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 0,
-        "overUnderBetAmt": 0
+        "overUnderBetAmt": 0,
+        "date": "2022-10-23T17:00:00Z"
     },
     {
         "id": 3,
@@ -90,7 +92,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 0,
-        "overUnderBetAmt": 0
+        "overUnderBetAmt": 0,
+        "date": "2022-10-23T20:25:00Z"
     },
     {
         "id": 4,
@@ -121,7 +124,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 0,
-        "overUnderBetAmt": 0
+        "overUnderBetAmt": 0,
+        "date": "2022-10-23T17:00:00Z"
     },
     {
         "id": 5,
@@ -152,7 +156,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 0,
-        "overUnderBetAmt": 100
+        "overUnderBetAmt": 100,
+        "date": "2022-10-23T20:25:00Z"
     },
     {
         "id": 6,
@@ -183,7 +188,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 100,
-        "overUnderBetAmt": 0
+        "overUnderBetAmt": 0,
+        "date": "2022-10-23T17:00:00Z"
     },
     {
         "id": 7,
@@ -214,7 +220,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 100,
-        "overUnderBetAmt": 0
+        "overUnderBetAmt": 0,
+        "date": "2022-10-23T17:00:00Z"
     },
     {
         "id": 8,
@@ -245,7 +252,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 0,
-        "overUnderBetAmt": 100
+        "overUnderBetAmt": 100,
+        "date": "2022-10-23T20:25:00Z"
     },
     {
         "id": 9,
@@ -276,7 +284,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 0,
-        "overUnderBetAmt": 0
+        "overUnderBetAmt": 0,
+        "date": "2022-10-23T17:00:00Z"
     },
     {
         "id": 10,
@@ -307,7 +316,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 0,
-        "overUnderBetAmt": 0
+        "overUnderBetAmt": 0,
+        "date": "2022-10-23T17:00:00Z"
     },
     {
         "id": 11,
@@ -338,7 +348,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 0,
-        "overUnderBetAmt": 0
+        "overUnderBetAmt": 0,
+        "date": "2022-10-24T00:15:00Z"
     },
     {
         "id": 12,
@@ -369,7 +380,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 0,
-        "overUnderBetAmt": 100
+        "overUnderBetAmt": 100,
+        "date": "2022-10-23T20:25:00Z"
     },
     {
         "id": 13,
@@ -400,7 +412,8 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 100,
-        "overUnderBetAmt": 0
+        "overUnderBetAmt": 0,
+        "date": "2022-10-23T17:00:00Z"
     },
     {
         "id": 14,
@@ -431,6 +444,7 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 0,
-        "overUnderBetAmt": 0
+        "overUnderBetAmt": 0,
+        "date": "2022-10-23T17:00:00Z"
     }
 ]
