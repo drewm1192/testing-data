@@ -332,7 +332,7 @@
         "awayMoneyLine": 295,
         "spread": -8,
         "total": 40,
-        "homeGamble": 100,
+        "homeGamble": 0,
         "awayGamble": 100,
         "homePayout": 27.78,
         "awayPayout": 295,
