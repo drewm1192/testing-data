@@ -13,7 +13,7 @@
         "spread": -2,
         "total": 44,
         "homeGamble": 100,
-        "awayGamble": 0,
+        "awayGamble": 100,
         "homePayout": 76.92,
         "awayPayout": 110,
         "totalPrediction": 47,
