@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "week": 2,
+        "week": 3,
         "year": 2024,
         "homeTeam": "Chicago Bears",
         "awayTeam": "Cincinnati Bengals",
@@ -33,7 +33,7 @@
     },
     {
         "id": 1,
-        "week": 2,
+        "week": 3,
         "year": 2024,
         "homeTeam": "Kansas City Chiefs",
         "awayTeam": "Detroit Lions",
@@ -65,7 +65,7 @@
     },
     {
         "id": 1,
-        "week": 2,
+        "week": 3,
         "year": 2024,
         "homeTeam": "Cleveland Browns",
         "awayTeam": "Minnesota Vikints",
