@@ -29,6 +29,22 @@
         "underTotalOdds": -110,
         "spreadBetAmount": 100,
         "overUnderBetAmt": 50,
+        "vegasHomeTotal": 20,
+        "vegasAwayTotal": 21,
+        "percentOverVegasTotal": 50,
+        "percentUnderVegasTotal": 45,
+        "percentOverVegasHomeTotal": 40,
+        "percentUnderVegasHomeTotal": 60,
+        "percentOverVegasAwayTotal": 60,
+        "percentUnderVegasAwayTotal": 40,
+        "homeTotalBet": "Over" 
+        "awayTotalBet": "-",
+        "homeTotalBetAmount": 100,
+        "awayTotalBetAmount": 100,
+        "homeTotalOverOdds": -110,
+        "homeTotalUnderOdds": -110,
+        "awayTotalOverOdds": -110,
+        "awayTotalUnderOdds": -110,
         "date": "2024-08-022T00:00:00Z"
     },
     {
@@ -61,6 +77,23 @@
         "underTotalOdds": -110,
         "spreadBetAmount": 0,
         "overUnderBetAmt": 150,
+        "vegasHomeTotal": 20,
+        "vegasAwayTotal": 21,
+        "percentOverVegasTotal": 50,
+        "percentUnderVegasTotal": 45,
+        "percentOverVegasHomeTotal": 40,
+        "percentUnderVegasHomeTotal": 60,
+        "percentOverVegasAwayTotal": 60,
+        "percentUnderVegasAwayTotal": 40,
+        "homeTotalBet": "Under" 
+        "awayTotalBet": "-",
+        "homeTotalBetAmount": 100,
+        "awayTotalBetAmount": 100,
+        "homeTotalOverOdds": -110,
+        "homeTotalUnderOdds": -110,
+        "awayTotalOverOdds": -110,
+        "awayTotalUnderOdds": -110,
+        "date": "2024-08-022T00:00:00Z"
         "date": "2024-08-22T00:00:00Z"
     },
     {
@@ -81,7 +114,7 @@
         "homePayout": 76.92,
         "awayPayout": 110,
         "totalPrediction": 47,
-        "overUnderGamble": "Over",
+        "overUnderGamble": "Under",
         "spreadGamble": "-",
         "spreadPrediction": -4,
         "totalPred": 47,
@@ -93,6 +126,23 @@
         "underTotalOdds": -110,
         "spreadBetAmount": 0,
         "overUnderBetAmt": 0,
+        "vegasHomeTotal": 20,
+        "vegasAwayTotal": 21,
+        "percentOverVegasTotal": 50,
+        "percentUnderVegasTotal": 45,
+        "percentOverVegasHomeTotal": 40,
+        "percentUnderVegasHomeTotal": 60,
+        "percentOverVegasAwayTotal": 60,
+        "percentUnderVegasAwayTotal": 40,
+        "homeTotalBet": "-" 
+        "awayTotalBet": "Under",
+        "homeTotalBetAmount": 100,
+        "awayTotalBetAmount": 100,
+        "homeTotalOverOdds": -110,
+        "homeTotalUnderOdds": -110,
+        "awayTotalOverOdds": -110,
+        "awayTotalUnderOdds": -110,
+        "date": "2024-08-022T00:00:00Z"
         "date": "2024-08-09T00:00:00Z"
     }
 ]
