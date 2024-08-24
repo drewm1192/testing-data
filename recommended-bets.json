@@ -37,7 +37,7 @@
         "percentUnderVegasHomeTotal": 60,
         "percentOverVegasAwayTotal": 60,
         "percentUnderVegasAwayTotal": 40,
-        "homeTotalBet": "Over" 
+        "homeTotalBet": "Over",
         "awayTotalBet": "-",
         "homeTotalBetAmount": 100,
         "awayTotalBetAmount": 100,
@@ -85,7 +85,7 @@
         "percentUnderVegasHomeTotal": 60,
         "percentOverVegasAwayTotal": 60,
         "percentUnderVegasAwayTotal": 40,
-        "homeTotalBet": "Under" 
+        "homeTotalBet": "Under",
         "awayTotalBet": "-",
         "homeTotalBetAmount": 100,
         "awayTotalBetAmount": 100,
@@ -133,7 +133,7 @@
         "percentUnderVegasHomeTotal": 60,
         "percentOverVegasAwayTotal": 60,
         "percentUnderVegasAwayTotal": 40,
-        "homeTotalBet": "-" 
+        "homeTotalBet": "-",
         "awayTotalBet": "Under",
         "homeTotalBetAmount": 100,
         "awayTotalBetAmount": 100,
